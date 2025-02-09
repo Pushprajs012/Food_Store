@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Food Store</string>
+    <string name="entermail">Enter Email id</string>
+    <string name="enterpassword">Enter Password</string>
+    <string name="create_account">Become a Member – Sign Up</string>
+    <string name="already_have_account">Returning User? Log In</string>
+    <string name="detail">Your Food</string>
+    <string name="prodectname">Food Name</string>
+    <string name="rating">4.9</string>
+    <string name="customizeyouroder">Customize Your Burger to Your Tastes. Ultimate Experience</string>
+    <string name="price">$25</string>
+    <string name="about">Description</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="loding">Loding...</string>
+    <string name="totalprice">Total Price</string>
+    <string name="cod">COD</string>
+    <string name="expirydate">Expiry Date</string>
+    <string name="date">MMYY</string>
+    <string name="cvv">CVV</string>
+    <string name="proseedtopayment">Pay</string>
+</resources>

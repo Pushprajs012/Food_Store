@@ -1,0 +1,85 @@
+{
+  
+  "foodstore": [
+    {
+      "description": "A delicious large cheese pizza with a crispy crust.",
+      "image": "https://i.postimg.cc/vBMWXPpL/1.png",
+      "name": "Cheese Pizza",
+      "price": 50,
+      "product_id": "0",
+      "size": "Large"
+    },
+    {
+      "description": "A healthy veggie burger made with fresh ingredients.",
+      "image": "https://i.postimg.cc/3wh4Hkn3/11.png",
+      "name": "Veggie Burger",
+      "price": 30,
+      "product_id": "1",
+      "size": "Medium"
+    },
+    {
+      "description": "Creamy pasta with Alfredo sauce and herbs.",
+      "image": "https://i.postimg.cc/rsw52DyD/2.png",
+      "name": "Pasta Alfredo",
+      "price": 45,
+      "product_id": "2",
+      "size": "Small"
+    },
+    {
+      "description": "Grilled chicken wrap with fresh veggies and sauce.",
+      "image": "https://i.postimg.cc/Fs10Pknq/3.png",
+      "name": "Chicken Wrap",
+      "price": 250,
+      "product_id": "3",
+      "size": "Small"
+    },
+    {
+      "description": "Rich and moist chocolate cake topped with ganache.",
+      "image": "https://i.postimg.cc/rpqmPvwm/4.png",
+      "name": "Chocolate Cake",
+      "price": 400,
+      "product_id": "4",
+      "size": "Large"
+    },
+    {
+      "description": "Fresh Caesar salad with homemade dressing.",
+      "image": "https://i.postimg.cc/k5jbFnv9/5.png",
+      "name": "Caesar Salad",
+      "price": 350,
+      "product_id": "5",
+      "size": "Medium"
+    },
+    {
+      "description": "Crispy grilled sandwich with melted cheese.",
+      "image": "https://i.postimg.cc/909why5F/6.png",
+      "name": "Grilled Sandwich",
+      "price": 200,
+      "product_id": "6",
+      "size": "Small"
+    },
+    {
+      "description": "A refreshing smoothie made with mixed fruits.",
+      "image": "https://i.postimg.cc/kMRbKP63/7.png",
+      "name": "Fruit Smoothie",
+      "price": 180,
+      "product_id": "7",
+      "size": "Medium"
+    },
+    {
+      "description": "Classic Margarita pizza with basil and mozzarella.",
+      "image": "https://i.postimg.cc/QxLWqY1B/8.png",
+      "name": "Margarita Pizza",
+      "price": 450,
+      "product_id": "8",
+      "size": "Medium"
+    },
+    {
+      "description": "Traditional Italian dessert with mascarpone and coffee.",
+      "image": "https://i.postimg.cc/284L9d70/10.png",
+      "name": "Tiramisu",
+      "price": 380,
+      "product_id": "9",
+      "size": "Small"
+    }
+  ]
+}
